@@ -1,5 +1,5 @@
 spring:
-  zipkin.baseUrl: localhost:9411
+  zipkin.baseUrl: http://localhost:9411
   cloud:
     gateway:
       discovery.locator:
